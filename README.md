@@ -1,5 +1,7 @@
 # First project of roc8 cohort
 
+## Live Link : https://rocket-email.netlify.app/
+
 ### Features
 
 - The app features an email list page. This page shows the list of emails sent to a user.
@@ -8,5 +10,9 @@
 - The app should show read and unread mails in different CSS styles to distinguish between the same.
 - Allow filtering emails by “favorites”, “read” and “unread”.
 
-### Few ScreenShots
 
+### Setup
+
+- Download or clone the repository
+- Run `$ npm install`
+- Start Server `$ npm start`
